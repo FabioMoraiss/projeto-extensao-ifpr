@@ -11,17 +11,14 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
-                "viewState": {
-                  "x": 923.6630329769808,
-                  "y": 520.8320821323679,
-                  "zoom": -0.13714089106348848
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Processo de abrir conta em um banco"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d8e98c1934e65cd7",
@@ -181,12 +177,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ae2a332bac6b75fa",
   "lastOpenFiles": [
-    "Pasted image 20260108182753.png",
+    "Imagens/Pasted image 20250326001128.png",
+    "Imagens/Pasted image 20260108182336.png",
+    "Imagens/Pasted image 20250326003501.png",
+    "Imagens/Pasted image 20260108182753.png",
+    "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
     "aulas/Aula 1/Processos.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
     "Untitled 1.md",
@@ -194,10 +195,6 @@
     "README.md",
     "Indice.md",
     "2025-03-26.md",
-    "Imagens/Pasted image 20260108182336.png",
-    "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
-    "Imagens/Pasted image 20250326003501.png",
-    "Imagens/Pasted image 20250326001128.png",
     "Imagens",
     "introdução.md",
     "aulas",
