@@ -11,17 +11,33 @@
             "id": "ae2a332bac6b75fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
+                "viewState": {
+                  "x": 911.7690516060096,
+                  "y": 504.48723981114745,
+                  "zoom": -0.464775104296067
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Processo de abrir conta em um banco"
+            }
+          },
+          {
+            "id": "5f3c19fc85b82584",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-27 01.19.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-27 01.19.53.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,22 +194,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae2a332bac6b75fa",
+  "active": "5f3c19fc85b82584",
   "lastOpenFiles": [
+    "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
+    "Excalidraw/Drawing 2026-01-27 01.19.53.excalidraw.md",
+    "Excalidraw",
+    "Indice.md",
+    "aulas/Aula 1/Processos.canvas",
+    "README.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Imagens/Pasted image 20250326001128.png",
     "Imagens/Pasted image 20260108182336.png",
     "Imagens/Pasted image 20250326003501.png",
     "Imagens/Pasted image 20260108182753.png",
-    "aulas/Aula 1/Processo de abrir conta em um banco.canvas",
-    "aulas/Aula 1/Processos.canvas",
     "aulas/Aula 1/Introdução ao curso.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "README.md",
-    "Indice.md",
     "2025-03-26.md",
     "Imagens",
     "introdução.md",
